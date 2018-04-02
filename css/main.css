@@ -26,25 +26,27 @@
 
 .footer_Item_blok2 {
 	font-size: 13px;
-	padding-top: 80px;
-	padding-bottom: 55px;
 	padding-left: 40px;
 		
 }
 
 
-
-
 .footer__menu{
-    padding-top: 35px;
     width: 100%;
     display: flex;
     justify-content: space-around;
-  
+ 
   	
 }
 
+
+.footer_Item_blok1{
+ 	margin-bottom: 80px;
+}
+
 .footer{
+	padding-top: 35px;
+	padding-bottom: 55px;
 	height: auto;
     background-color: #000;
     font-size: 0;
@@ -55,6 +57,8 @@
 .button_right{
    padding-right: 5px;
    padding-top: 15px;
+   display: block;
+
    
    
 
@@ -97,14 +101,9 @@
 
 
 
-
-
-
-
 .blok{
 	width: 25%;
 	height: auto;
-	
 	
 	
 }
@@ -114,8 +113,6 @@
 	height: auto;
 	margin-top: 15px;
 	padding: 0;
-
-
 }
 
 
@@ -123,7 +120,6 @@
 	width: 100%;
 	
 }
-
 
 
 .footer_Item_blok1{
